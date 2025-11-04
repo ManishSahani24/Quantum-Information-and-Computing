@@ -16,3 +16,11 @@ Prerequisites:
 For practicing quantum circuits, I use **IBM Qiskit** Lab.
 It provides 10 minutes of free QPU runtime per month, which is enough to run ~12,000 circuits — more than sufficient for learning and experimentation.
 
+
+
+## Credits and Acknowledgements
+IISc Qiskit Fall-Fest 2025 conducted by **Indian Institute of Science, Bangalore**
+
+IBM Quantum Learning
+
+
