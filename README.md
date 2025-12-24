@@ -1,8 +1,10 @@
-
-  
-  ![Father of Quantum Computing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJGKSwEXpHibqYSTtbdlOwyidX4UxQ1429A&s)
-
-
+<div align="right">
+  <a href="https://en.wikipedia.org/wiki/Richard_Feynman">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJGKSwEXpHibqYSTtbdlOwyidX4UxQ1429A&s" width="200" alt="Richard Feynman" />
+  </a>
+  <br />
+  <sub>Richard Feynman, Father of Quantum Computing</sub>
+</div>
 Contents: 
   1) Classical Information
   2) Quantum Information
