@@ -1,15 +1,23 @@
-<div align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJGKSwEXpHibqYSTtbdlOwyidX4UxQ1429A&s" align="right" width="250" alt="Richard Feynman" hspace="20" />
-</a>
-  <br />
-  <sub style="display: block; text-align: right; padding-right: 10px;">Richard Feynmann, Father of Quantum Computing</sub>
-</div>
 
-
+## Quantum Information and Technology
 
 
 
 ------------------------------------------------------
+
+<a href="https://en.wikipedia.org/wiki/Richard_Feynman">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJGKSwEXpHibqYSTtbdlOwyidX4UxQ1429A&s" align="right" width="250" alt="Richard Feynman" hspace="20" />
+</a>
+
+> "***Firstly, I am going to describe the possibility of simulating physics in the classical approximation, a thing which is usually described by local differential equations. But the physical world is Quantum Mechanical, and therefore the proper problem is the simulation of Quantum physics — which is what I really want to talk about.***"
+>
+> — **Richard P. Feynman**, *Simulating Physics with Computers (1981)*
+>
+> **Richard P. Feynman**, The Father of Qauntum Computing
+
+<br clear="right" />
+
+
 Contents: 
   1) Classical Information
   2) Quantum Information
