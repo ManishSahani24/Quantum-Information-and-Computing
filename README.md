@@ -4,6 +4,12 @@
   <br />
   <sub style="display: block; text-align: right; padding-right: 10px;">Richard Feynmann, Father of Quantum Computing</sub>
 </div>
+
+
+
+
+
+------------------------------------------------------
 Contents: 
   1) Classical Information
   2) Quantum Information
