@@ -18,6 +18,10 @@
 <br clear="right" />
 
 
+<br>
+<br>
+<br>
+
 **How powerful is Quantum computer as compared to Classical Computer?**
 
 1) The easiest way I can give an idea about it is : Let say you posses my public key but not my private key, a quantum computer could potentially compute the corresponding private key. A classical computer would take time longer than the age of universe for current cryptographic system.
@@ -43,12 +47,13 @@ Prerequisites:
 
 
 
-🧪 Hands-on Practice
-
-
 
 ## Credits and Acknowledgements
 IISc Qiskit Fall-Fest 2025 conducted by **Indian Institute of Science, Bangalore**
+
+Foundation of QC Innovation, **IISc Bangalore**
+
+Qiskit Fall-Fest 2025, **IIT Madras**
 
 IBM Quantum Learning
 
