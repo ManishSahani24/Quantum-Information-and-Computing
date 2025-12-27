@@ -21,9 +21,10 @@
 **How powerful is Quantum computer as compared to Classical Computer?**
 
 1) The easiest way I can give an idea about it is : Let say you posses my public key but not my private key, a quantum computer could potentially compute the corresponding private key. A classical computer would take time longer than the age of universe for current cryptographic system.
+   
 2)  For an unstructure database of $N$, a classical computer requires $O(N)$ operations to find a target, whereas a quantum computer can do it in $O(\sqrt{N})$. The Grover's algorithm that we will be looking at.
-3)   
-
+    
+-------------------------
 
 ### High level design of a Quantum computer (source IBM)
 ![QUANTUM COMPUTER STRUCTURE](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8wYN6tesXyhT7aa_-qYeVw.jpeg)
