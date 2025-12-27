@@ -18,6 +18,13 @@
 <br clear="right" />
 
 
+**How powerful is Quantum computer as compared to Classical Computer?**
+
+1) The easiest way I can give an idea about it is : Let say you posses my public key but not my private key, a quantum computer could potentially compute the corresponding private key.
+2) 
+
+
+
 Contents: 
   1) Classical Information
   2) Quantum Information
