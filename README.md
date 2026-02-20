@@ -26,7 +26,7 @@
 
 1) An intuitive way to understand the power of quantum computing is through public-key cryptography. Suppose you possess my public key but not my private key. With today’s classical computers, deriving the private key from the public key would take an impractically long time—far longer than the age of the universe for current cryptographic systems. However, a **Quantum computer** could, in principle, compute the corresponding private key efficiently, breaking many widely used encryptions methods.
    
-2)  Another example comes from search problems. Consider an unstructured database containing $N$ items. A classical computer requires $O(N)$ operations in the worst case to find a specific target. In contrast, a quantum computer can solve the same problem in $O(\sqrt(N)$ $operations using Grover’s algorithm. This quadratic speedup illustrates how quantum computation can outperform classical computation for certain tasks.
+2)  Another example comes from search problems. Consider an unstructured database containing $N$ items. A classical computer requires $O(N)$ operations in the worst case to find a specific target. In contrast, a quantum computer can solve the same problem in $O(\sqrt{N})$ $operations using Grover’s algorithm. This quadratic speedup illustrates how quantum computation can outperform classical computation for certain tasks.
     
 -------------------------
 
