@@ -34,17 +34,6 @@
 ![QUANTUM COMPUTER STRUCTURE](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8wYN6tesXyhT7aa_-qYeVw.jpeg)
 
 
-Contents: 
-  1) Classical Information
-  2) Quantum Information
-
-Prerequisites:
-  1) Complex Number
-  2) Core Linear Algebra
-  3) Probability and Statistics
-  4) Calculus (introductory) 
-
-
 
 
 
